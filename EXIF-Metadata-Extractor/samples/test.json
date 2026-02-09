@@ -1,0 +1,11 @@
+{
+    "gps_sample.jpg": {
+        "GPSTag": 26,
+        "GPSLatitudeRef": "N",
+        "GPSLatitude": 40.71416666666667,
+        "GPSLongitudeRef": "W",
+        "GPSLongitude": -74.00583333333333,
+        "PrivacyRiskScore": 5,
+        "PrivacyRiskLevel": "MEDIUM"
+    }
+}
